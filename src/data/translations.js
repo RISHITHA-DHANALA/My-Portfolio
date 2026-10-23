@@ -27,7 +27,7 @@ export const translations = {
     about: {
       title: "About me",
       paragraphs: ["
-I'm interested in understanding how technology works and turning what I learn into practical projects. I enjoy exploring programming, strengthening my problem-solving skills, and experimenting with ideas that connect computer science with real-world applications. Through my projects and learning journey, I'm working toward becoming a more thoughtful and capable developer.
+I'm interested in understanding how technology works and turning what I learn into practical projects. I enjoy exploring programming, strengthening my problem-solving skills, and experimenting with ideas that connect computer science with real-world applications. Through my projects and learning journey, I'm working toward becoming a more thoughtful and capable developer."
 ,
         "I work mainly in C, Java and Python, and I'm building up my web development skills with HTML, CSS and JavaScript. I like turning ideas into working software, and practising DSA to think more clearly about problems. I also share my learning on YouTube.",
       ],
