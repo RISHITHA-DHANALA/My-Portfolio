@@ -34,7 +34,7 @@ export default function Footer() {
             className="lnk"
             style={{ fontSize: "0.82rem", textDecoration: "none" }}
           >
-            Download Project ZIP
+            
           </a>
         </div>
 
