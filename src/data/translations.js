@@ -26,11 +26,12 @@ export const translations = {
     },
     about: {
       title: "About me",
-      paragraphs: ["
-I'm interested in understanding how technology works and turning what I learn into practical projects. I enjoy exploring programming, strengthening my problem-solving skills, and experimenting with ideas that connect computer science with real-world applications. Through my projects and learning journey, I'm working toward becoming a more thoughtful and capable developer."
-,
-        "I work mainly in C, Java and Python, and I'm building up my web development skills with HTML, CSS and JavaScript. I like turning ideas into working software, and practising DSA to think more clearly about problems. I also share my learning on YouTube.",
-      ],
+     
+paragraphs: [
+  "I'm interested in understanding how technology works and turning what I learn into practical projects. I enjoy exploring programming, strengthening my problem-solving skills, and experimenting with ideas that connect computer science with real-world applications. Through my projects and learning journey, I'm working toward becoming a more thoughtful and capable developer.",
+  "I work mainly in C, Java and Python, and I'm building up my web development skills with HTML, CSS and JavaScript. I like turning ideas into working software, and practising DSA to think more clearly about problems. I also share my learning on YouTube.",
+],
+
       location: "Based in Andhra Pradesh, India",
     },
     education: {
@@ -133,12 +134,12 @@ I'm interested in understanding how technology works and turning what I learn in
     },
     about: {
       title: "నా గురించి",
-      paragraphs: ["
-       
-సాంకేతికత ఎలా పనిచేస్తుందో అర్థం చేసుకోవడం, నేర్చుకున్న విషయాలను ఆచరణాత్మక ప్రాజెక్టులుగా మార్చడం నాకు ఆసక్తికరం. ప్రోగ్రామింగ్‌ను అన్వేషించడం, సమస్యలను పరిష్కరించే నైపుణ్యాలను మెరుగుపరచుకోవడం, కంప్యూటర్ సైన్స్‌ను వాస్తవ ప్రపంచ అనువర్తనాలతో అనుసంధానించే ఆలోచనలపై ప్రయోగాలు చేయడం నాకు ఇష్టం. నా ప్రాజెక్టులు, నిరంతర అభ్యాసం ద్వారా మరింత ఆలోచనాత్మకమైన, సమర్థవంతమైన డెవలపర్‌గా ఎదగడానికి కృషి చేస్తున్నాను.
-,
-        "నేను ప్రధానంగా C, Java మరియు Python లో పనిచేస్తాను, అలాగే HTML, CSS, JavaScript తో వెబ్ డెవలప్‌మెంట్ నైపుణ్యాలను మెరుగుపరుచుకుంటున్నాను. ఆలోచనలను నిజమైన సాఫ్ట్‌వేర్‌గా మార్చడం నాకు ఇష్టం. నా అభ్యాసాన్ని యూట్యూబ్‌లో కూడా పంచుకుంటాను.",
-      ],
+     
+paragraphs: [
+  "సాంకేతికత ఎలా పనిచేస్తుందో అర్థం చేసుకోవడం, నేర్చుకున్న విషయాలను ఆచరణాత్మక ప్రాజెక్టులుగా మార్చడం నాకు ఆసక్తికరం. ప్రోగ్రామింగ్‌ను అన్వేషించడం, సమస్యలను పరిష్కరించే నైపుణ్యాలను మెరుగుపరచుకోవడం, కంప్యూటర్ సైన్స్‌ను వాస్తవ ప్రపంచ అనువర్తనాలతో అనుసంధానించే ఆలోచనలపై ప్రయోగాలు చేయడం నాకు ఇష్టం. నా ప్రాజెక్టులు, నిరంతర అభ్యాసం ద్వారా మరింత ఆలోచనాత్మకమైన, సమర్థవంతమైన డెవలపర్‌గా ఎదగడానికి కృషి చేస్తున్నాను.",
+  "నేను ప్రధానంగా C, Java మరియు Python లో పనిచేస్తాను, అలాగే HTML, CSS, JavaScript తో వెబ్ డెవలప్‌మెంట్ నైపుణ్యాలను మెరుగుపరుచుకుంటున్నాను. ఆలోచనలను నిజమైన సాఫ్ట్‌వేర్‌గా మార్చడం నాకు ఇష్టం. నా అభ్యాసాన్ని యూట్యూబ్‌లో కూడా పంచుకుంటాను.",
+],
+
       location: "ఆంధ్రప్రదేశ్, భారతదేశం",
     },
     education: {
