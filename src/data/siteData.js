@@ -6,10 +6,12 @@ export const site = {
   quote: "I learn by building.\nI grow by solving.",
   intro:
     "I'm an undergraduate Computer Science student exploring software development, problem solving, AI and web technologies — building real projects, practicing DSA, and preparing for GATE alongside coursework.",
+  
   about: [
-    "I'm an undergraduate Computer Science student exploring software development, problem solving, AI and web technologies — building real projects, practicing DSA, and preparing for GATE alongside coursework.",
+    "I'm interested in understanding how technology works and turning what I learn into practical projects. I enjoy exploring programming, strengthening my problem-solving skills, and experimenting with ideas that connect computer science with real-world applications. Through my projects and learning journey, I'm working toward becoming a more thoughtful and capable developer.",
     "I work mainly in C, Java and Python, and I'm building up my web development skills with HTML, CSS and JavaScript. I like turning ideas into working software, and practising DSA to think more clearly about problems. I also share my learning on YouTube.",
   ],
+
   email: "rishithadhanala@gmail.com",
   github: "https://github.com/RISHITHA-DHANALA",
   location: "Andhra Pradesh, India",
