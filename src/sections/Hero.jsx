@@ -16,6 +16,7 @@ const TAGS = [
 export default function Hero({ lang = "en" }) {
   const ref = useRef(null);
   const t = translations[lang]?.hero || translations.en.hero;
+  const isTelugu = lang === "te";
 
   useEffect(() => {
     const el = ref.current;
@@ -53,7 +54,11 @@ export default function Hero({ lang = "en" }) {
         <div>
           {/* Top row: Word 'Portfolio' with gravity effect + subtle 'Think with Rishi' tag */}
           <div className="hero-top-row">
-            <GravityWord text={t.eyebrow || "Portfolio"} />
+           {isTelugu ? (
+  <span className="gword">{t.eyebrow || "Portfolio"}</span>
+) : (
+  <GravityWord text={t.eyebrow || "Portfolio"} />
+)}
             <span className="hero-brand-pill">
               <span className="hero-spark">✦</span>
               {t.brand || site.brand}
@@ -64,7 +69,11 @@ export default function Hero({ lang = "en" }) {
           <p className="hero-academic-subtitle">{t.role || site.role}</p>
 
           {/* Name with gravity interaction */}
-          <GravityWord as="h1" className="name" text={t.name || site.name} />
+         {isTelugu ? (
+  <h1 className="name">{site.name}</h1>
+) : (
+  <GravityWord as="h1" className="name" text={t.name || site.name} />
+)}
 
           {/* Exact Quote with line break preserved */}
           <div className="hero-quote-wrap">
