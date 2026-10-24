@@ -12,8 +12,8 @@ export default function ResumeCta({ lang = "en" }) {
         </div>
         <a
           className="rcta-btn"
-          href="/Rishitha-Dhanala-Resume.pdf"
-          download="Rishitha-Dhanala-Resume.pdf"
+          href="/Rishitha_Dhanala_Resume.pdf"
+          download="Rishitha_Dhanala_Resume.pdf"
           target="_blank"
           rel="noopener noreferrer"
         >
