@@ -20,7 +20,7 @@ export const site = {
     youtube: "https://www.youtube.com/@rishithaspace",
     linkedin: "https://linkedin.com/in/rishitha-dhanala",
   },
-  resumePath: "/Rishitha-Dhanala-Resume.pdf",
+  resumePath: "/Rishitha_Dhanala_Resume.pdf",
   formEndpoint: import.meta.env.VITE_FORM_ENDPOINT || "",
 };
 
